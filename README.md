@@ -24,4 +24,7 @@ Fuente: Datasheet oficial de Espressif (Verion 5.3)
 ** Dudas para la clase: **  [Escribir la preguntas]
 
 ## Prácticas:
-- Práctica01-led
+## Práctica 01 - LED parpadeante
+- Simulación en Wokwi: [https://wokwi.com/projects/XXXXXXXX](https://wokwi.com/projects/478046089972404225)
+- Código: carpeta `Practica01-led`
+
