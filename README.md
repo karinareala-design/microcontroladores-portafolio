@@ -10,16 +10,21 @@ Prácticas de la materia de Microcontroladores con ESP32
 
 ## Datos clave del ESP32
 Fuente: Datasheet oficial de Espressif (Verion 5.3)
-1. Núcleo:
-2. Frecuencia:
-3. Memoria SRAM:
-4. Memoria FLASH:
-5. Memoria ROM:
-6. WiFi:
-7. Bluetooth:
-8. Voltaje:
-9. Temperatura:
-10. Dimensiones:
+1.Modelo de Procesador:
+2. Núcleo:
+3. Frecuencia:
+4. Memoria SRAM:
+5. Memoria FLASH:
+6. Memoria ROM:
+7. WiFi:
+8. Bluetooth:
+9. Voltaje:
+10. Temperatura:
+11. Dimensiones:
+12. Número de Puertos (GPIO):
+13. Número de Pines totales:
+14. Aplicaciones (5):
+15. Placa: 
 
 ** Dudas para la clase: **  [Escribir la preguntas]
 
