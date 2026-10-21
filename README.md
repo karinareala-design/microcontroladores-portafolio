@@ -10,7 +10,7 @@ Prácticas de la materia de Microcontroladores con ESP32
 
 ## Datos clave del ESP32
 Fuente: Datasheet oficial de Espressif (Verion 5.3)
-1.Modelo de Procesador:
+1. Modelo de Procesador:
 2. Núcleo:
 3. Frecuencia:
 4. Memoria SRAM:
@@ -24,7 +24,8 @@ Fuente: Datasheet oficial de Espressif (Verion 5.3)
 12. Número de Puertos (GPIO):
 13. Número de Pines totales:
 14. Aplicaciones (5):
-15. Placa: 
+15. Placa:
+
 
 ** Dudas para la clase: **  [Escribir la preguntas]
 
