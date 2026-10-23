@@ -33,4 +33,6 @@ Fuente: Datasheet oficial de Espressif (Verion 5.3)
 ## Práctica 01 - LED parpadeante
 - Simulación en Wokwi: [https://wokwi.com/projects/XXXXXXXX](https://wokwi.com/projects/478046089972404225)
 - Código: carpeta `Practica01-led`
+## Práctica02-info-chip
+- Código: carpeta `Practica02-info-chip`
 
